@@ -2529,7 +2529,7 @@ var app = function() {
         let n;
         return {
             c() {
-                n = w("div"), n.innerHTML = '<p class="mb-3">A respectful homage to <a href="https://www.nytimes.com/games/wordle/index.html" title="Wordle">Wordle</a>, with a musical twist.</p> \n\n<p class="mb-3">Each Heardle is semi-randomly plucked from a long list of popularly streamed artists. Much love, and all relevant copyright, to those featured.</p> \n\n<p class="mb-3">Heardle was made for a small group of friends, then somehow gained millions of players overnight. Please be kind 🖖🏽.</p> \n\n<p class="mb-3"><a href="https://twitter.com/Heardle_app" class="flex items-center no-underline "><svg class="mr-1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M24 4.37a9.6 9.6 0 0 1-2.83.8 5.04 5.04 0 0 0 2.17-2.8c-.95.58-2 1-3.13 1.22A4.86 4.86 0 0 0 16.61 2a4.99 4.99 0 0 0-4.79 6.2A13.87 13.87 0 0 1 1.67 2.92 5.12 5.12 0 0 0 3.2 9.67a4.82 4.82 0 0 1-2.23-.64v.07c0 2.44 1.7 4.48 3.95 4.95a4.84 4.84 0 0 1-2.22.08c.63 2.01 2.45 3.47 4.6 3.51A9.72 9.72 0 0 1 0 19.74 13.68 13.68 0 0 0 7.55 22c9.06 0 14-7.7 14-14.37v-.65c.96-.71 1.79-1.6 2.45-2.61z"></path></svg> @Heardle_app</a></p> \n\n\n\n<p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">Soundcloud</a>,\n    <a href="https://svelte.dev">Svelte</a>,\n    <a href="https://tailwindcss.com">Tailwind</a>,\n    <a href="https://fonts.google.com/noto/specimen/Noto+Serif+Display">Noto Serif Display</a>, <a href="https://fonts.google.com/noto/specimen/Noto+Sans">Noto Sans</a>,\n    <a href="https://iconsvg.xyz">IconSVG</a>, <a href="https://momentjs.com">momentjs</a>,\n    <a href="https://tarekraafat.github.io/autoComplete.js/#/">autocomplete.js</a>, and powered by <a href="https://vercel.com/">Vercel</a>.         <a href="https://omakase.studio" title="Studio Omakase">Served omakase / お任せ</a>.</p>', M(n, "class", "text")
+                n = w("div"), n.innerHTML = '<p class="mb-3">A respectful homage to <a href="https://www.nytimes.com/games/wordle/index.html" title="Wordle">Heardle</a>, with a funny twist.</p> \n\n<p class="mb-3">Each Heardle is NOT semi-randomly plucked from a long list of popularly streamed artists. Much love, and all relevant copyright, to those featured.</p> \n\n<p class="mb-3">Heardle was made for a small group of friends, then somehow got taken over by a fuckin frog. Please be kind 🖖🏽.</p> \n\n<p class="mb-3"><a href="https://twitter.com/GreenJokwe" class="flex items-center no-underline "><svg class="mr-1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M24 4.37a9.6 9.6 0 0 1-2.83.8 5.04 5.04 0 0 0 2.17-2.8c-.95.58-2 1-3.13 1.22A4.86 4.86 0 0 0 16.61 2a4.99 4.99 0 0 0-4.79 6.2A13.87 13.87 0 0 1 1.67 2.92 5.12 5.12 0 0 0 3.2 9.67a4.82 4.82 0 0 1-2.23-.64v.07c0 2.44 1.7 4.48 3.95 4.95a4.84 4.84 0 0 1-2.22.08c.63 2.01 2.45 3.47 4.6 3.51A9.72 9.72 0 0 1 0 19.74 13.68 13.68 0 0 0 7.55 22c9.06 0 14-7.7 14-14.37v-.65c.96-.71 1.79-1.6 2.45-2.61z"></path></svg> @GreenJokwe</a></p> \n\n\n\n<p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">Soundcloud</a>,\n    <a href="https://svelte.dev">Svelte</a>,\n    <a href="https://tailwindcss.com">Tailwind</a>,\n    <a href="https://fonts.google.com/noto/specimen/Noto+Serif+Display">Noto Serif Display</a>, <a href="https://fonts.google.com/noto/specimen/Noto+Sans">Noto Sans</a>,\n    <a href="https://iconsvg.xyz">IconSVG</a>, <a href="https://momentjs.com">momentjs</a>,\n    <a href="https://tarekraafat.github.io/autoComplete.js/#/">autocomplete.js</a>, and powered by <a href="https://vercel.com/">Vercel</a>.         <a href="https://omakase.studio" title="Studio Omakase">Served omakase / お任せ</a>.</p>', M(n, "class", "text")
             },
             m(e, t) {
                 g(e, n, t)
@@ -2552,7 +2552,7 @@ var app = function() {
         let n, r, s, i;
         return {
             c() {
-                n = w("div"), r = w("a"), r.innerHTML = '<span class="kofitext svelte-1d3p4dy"><img src="https://storage.ko-fi.com/cdn/cup-border.png" alt="Ko-fi donations" class="kofiimg mr-2 mb-1 svelte-1d3p4dy"/>Support us on Ko-Fi</span><svg xmlns="http://www.w3.org/2000/svg" class="ml-2" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h13M12 5l7 7-7 7"></path></svg>', M(r, "class", "kofi-button py-2 px-3 rounded-lg items-center flex  svelte-1d3p4dy"), M(r, "href", "https://ko-fi.com/heardle"), M(r, "title", "Support us on Ko-Fi"), M(n, "class", "text-center flex justify-center items-center flex-col ")
+                n = w("div"), r = w("a"), r.innerHTML = '<span class="kofitext svelte-1d3p4dy"><img src="https://storage.ko-fi.com/cdn/cup-border.png" alt="Ko-fi donations" class="kofiimg mr-2 mb-1 svelte-1d3p4dy"/>Support us on Ko-Fi</span><svg xmlns="http://www.w3.org/2000/svg" class="ml-2" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h13M12 5l7 7-7 7"></path></svg>', M(r, "class", "kofi-button py-2 px-3 rounded-lg items-center flex  svelte-1d3p4dy"), M(r, "href", "https://ko-fi.com/heardle"), M(r, "title", "Support 'em on Ko-Fi"), M(n, "class", "text-center flex justify-center items-center flex-col ")
             },
             m(e, o) {
                 g(e, n, o), p(n, r), s || (i = b(r, "click", t[0]), s = !0)
@@ -2675,7 +2675,7 @@ var app = function() {
         let n, r, s, i, o, a, l, u, c;
         return a = new Ft({}), u = new zt({}), {
             c() {
-                n = w("p"), n.textContent = "Heardle went from a small game played amongst friends, to gaining millions of daily players overnight. Honestly, we're overwhelmed!", r = x(), s = w("p"), s.textContent = "If you've enjoyed playing, please consider supporting us – we'll do our best to keep improving Heardle for everyone.", i = x(), o = w("div"), Q(a.$$.fragment), l = x(), Q(u.$$.fragment), M(n, "class", "mb-3"), M(s, "class", "mb-3"), M(o, "class", "pt-6")
+                n = w("p"), n.textContent = "Heardle went from a small game played amongst friends, to gaining millions of daily greejer's overnight. Honestly, I'm Greej!", r = x(), s = w("p"), s.textContent = "If you've enjoyed playing, please consider supporting the people who actually made this shit.", i = x(), o = w("div"), Q(a.$$.fragment), l = x(), Q(u.$$.fragment), M(n, "class", "mb-3"), M(s, "class", "mb-3"), M(o, "class", "pt-6")
             },
             m(e, t) {
                 g(e, n, t), g(e, r, t), g(e, s, t), g(e, i, t), g(e, o, t), ee(a, o, null), g(e, l, t), ee(u, e, t), c = !0
@@ -2775,7 +2775,7 @@ var app = function() {
             c() {
                 t = w("div"), n = w("p"), r = _(A), s = x(), i = w("div");
                 for (let e = 0; e < N.length; e += 1) N[e].c();
-                o = x(), a = w("p"), I.c(), l = x(), R && R.c(), u = x(), c = w("div"), Q(d.$$.fragment), h = x(), f = w("div"), m = w("div"), k = w("div"), k.textContent = "Next Heardle:", S = x(), Q(b.$$.fragment), D = x(), T = w("div"), Y = w("div"), Y.innerHTML = '<span class="text-custom-negative"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg></span> \n                <span class="px-1">Heardle?</span>', C = x(), Q(O.$$.fragment), M(n, "class", "text-lg text-custom-line"), M(i, "class", "flex justify-center my-2"), M(a, "class", "py-1"), M(c, "class", "flex flex-col justify-center items-center pt-3"), M(t, "class", "text-center px-3"), M(k, "class", "text-center text-custom-line text-sm"), M(m, "class", "flex flex-col justify-center items-center mb-6 mx-3"), M(Y, "class", "flex justify-center items-center mb-3"), M(T, "class", "bg-custom-highlight py-3 pb-5 mx-3 rounded-t-md")
+                o = x(), a = w("p"), I.c(), l = x(), R && R.c(), u = x(), c = w("div"), Q(d.$$.fragment), h = x(), f = w("div"), m = w("div"), k = w("div"), k.textContent = "Next Greejerdle:", S = x(), Q(b.$$.fragment), D = x(), T = w("div"), Y = w("div"), Y.innerHTML = '<span class="text-custom-negative"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg></span> \n                <span class="px-1">Really? Heardle?</span>', C = x(), Q(O.$$.fragment), M(n, "class", "text-lg text-custom-line"), M(i, "class", "flex justify-center my-2"), M(a, "class", "py-1"), M(c, "class", "flex flex-col justify-center items-center pt-3"), M(t, "class", "text-center px-3"), M(k, "class", "text-center text-custom-line text-sm"), M(m, "class", "flex flex-col justify-center items-center mb-6 mx-3"), M(Y, "class", "flex justify-center items-center mb-3"), M(T, "class", "bg-custom-highlight py-3 pb-5 mx-3 rounded-t-md")
             },
             m(e, y) {
                 g(e, t, y), p(t, n), p(n, r), p(t, s), p(t, i);
@@ -2924,7 +2924,7 @@ var app = function() {
         let t, n, r, s = e[0].length * e[1].attemptInterval / 1e3 + "";
         return {
             c() {
-                t = _("You got today's Heardle within the first "), n = _(s), r = _(" seconds.")
+                t = _("You got today's Greejerdle within the first "), n = _(s), r = _(" seconds.")
             },
             m(e, s) {
                 g(e, t, s), g(e, n, s), g(e, r, s)
@@ -2943,7 +2943,7 @@ var app = function() {
             a = e[1].attemptIntervalAlt[e[0].length - 1] / 1e3 > 1 ? "s" : "";
         return {
             c() {
-                t = _("You got today's Heardle within "), n = _(o), r = _("\n                second"), s = _(a), i = _(".")
+                t = _("You got today's Greejerdle within "), n = _(o), r = _("\n                second"), s = _(a), i = _(".")
             },
             m(e, o) {
                 g(e, t, o), g(e, n, o), g(e, r, o), g(e, s, o), g(e, i, o)
@@ -2961,7 +2961,7 @@ var app = function() {
         let n;
         return {
             c() {
-                n = _("You didn't get today's Heardle. Better luck tomorrow!")
+                n = _("You didn't get today's Greejerdle. Better luck tomorrow!")
             },
             m(e, t) {
                 g(e, n, t)
@@ -5872,7 +5872,7 @@ var app = function() {
         let H = !e[5].hasFinished && e[8].gameIsActive && En(e);
         return {
             c() {
-                t = w("meta"), n = w("link"), s = w("link"), i = w("link"), o = w("link"), a = x(), Q(l.$$.fragment), u = x(), c = w("main"), L && L.c(), d = x(), h = w("div"), Q(f.$$.fragment), m = x(), v = w("div"), k = w("div"), Q(_.$$.fragment), S = x(), Q($.$$.fragment), D = x(), Q(Y.$$.fragment), C = x(), H && H.c(), Ln.title = "Heardle - That daily musical intros game", M(t, "name", "description"), M(t, "content", "Guess the song from the intro in as few tries as possible"), M(n, "rel", "apple-touch-icon"), M(n, "sizes", "180x180"), M(n, "href", "/apple-touch-icon.png"), M(s, "rel", "icon"), M(s, "type", "image/png"), M(s, "sizes", "32x32"), M(s, "href", "/favicon-32x32.png"), M(i, "rel", "icon"), M(i, "type", "image/png"), M(i, "sizes", "16x16"), M(i, "href", "/favicon-16x16.png"), M(o, "rel", "manifest"), M(o, "href", "/site.webmanifest"), M(h, "class", "flex-none"), M(k, "class", "max-w-screen-sm w-full mx-auto h-full flex flex-col justify-between overflow-auto"), M(v, "class", "w-full flex flex-col flex-grow relative"), M(c, "class", "bg-custom-bg text-custom-fg overflow-auto flex flex-col"), T(c, "height", e[3] + "px")
+                t = w("meta"), n = w("link"), s = w("link"), i = w("link"), o = w("link"), a = x(), Q(l.$$.fragment), u = x(), c = w("main"), L && L.c(), d = x(), h = w("div"), Q(f.$$.fragment), m = x(), v = w("div"), k = w("div"), Q(_.$$.fragment), S = x(), Q($.$$.fragment), D = x(), Q(Y.$$.fragment), C = x(), H && H.c(), Ln.title = "Greejerdle - That daily greejer musical intros game", M(t, "name", "description"), M(t, "content", "Guess the song from the intro in as few tries as possible (and how much you know Greej)"), M(n, "rel", "apple-touch-icon"), M(n, "sizes", "180x180"), M(n, "href", "/apple-touch-icon.png"), M(s, "rel", "icon"), M(s, "type", "image/png"), M(s, "sizes", "32x32"), M(s, "href", "/favicon-32x32.png"), M(i, "rel", "icon"), M(i, "type", "image/png"), M(i, "sizes", "16x16"), M(i, "href", "/favicon-16x16.png"), M(o, "rel", "manifest"), M(o, "href", "/site.webmanifest"), M(h, "class", "flex-none"), M(k, "class", "max-w-screen-sm w-full mx-auto h-full flex flex-col justify-between overflow-auto"), M(v, "class", "w-full flex flex-col flex-grow relative"), M(c, "class", "bg-custom-bg text-custom-fg overflow-auto flex flex-col"), T(c, "height", e[3] + "px")
             },
             m(r, y) {
                 p(Ln.head, t), p(Ln.head, n), p(Ln.head, s), p(Ln.head, i), p(Ln.head, o), g(r, a, y), ee(l, r, y), g(r, u, y), g(r, c, y), L && L.m(c, null), p(c, d), p(c, h), ee(f, h, null), p(c, m), p(c, v), p(v, k), ee(_, k, null), p(k, S), ee($, k, null), p(c, D), ee(Y, c, null), p(c, C), H && H.m(c, null), O = !0, P || (A = [b(Nn, "resize", e[17]), b(Nn, "resize", e[18])], P = !0)
