@@ -3048,7 +3048,7 @@ var app = function() {
         return A(), e.$$set = e => {
             "userGuesses" in e && n(0, r = e.userGuesses), "currentHeardle" in e && n(7, s = e.currentHeardle), "config" in e && n(1, i = e.config), "hasFinished" in e && n(2, o = e.hasFinished), "gotCorrect" in e && n(8, a = e.gotCorrect), "guessRef" in e && n(3, l = e.guessRef), "isPrime" in e && n(4, u = e.isPrime)
         }, [r, i, o, l, u, c, () => {
-            let e = "#Heardle #" + s.id,
+            let e = "#Greejerdle #" + s.id,
                 t = "";
             a ? r.length < i.maxAttempts / 3 ? t += "🔊" : r.length < i.maxAttempts / 3 * 2 ? t += "🔉" : r.length <= i.maxAttempts && (t += "🔈") : t += "🔇";
             for (let e = 0; e < i.maxAttempts; e++) r.length > e ? 1 == r[e].isCorrect ? t += "🟩" : 1 == r[e].isSkipped ? t += "⬛️" : t += "🟥" : t += "⬜️";
