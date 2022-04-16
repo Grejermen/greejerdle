@@ -584,7 +584,7 @@ var app = function() {
             }
         }), m.$on("click", e[4]), {
             c() {
-                t = w("header"), n = w("div"), r = w("div"), s = w("div"), Q(i.$$.fragment), o = x(), Q(a.$$.fragment), l = x(), u = w("h1"), u.textContent = "Heardle", c = x(), d = w("div"), Q(h.$$.fragment), f = x(), Q(m.$$.fragment), M(s, "class", "flex flex-1"), M(u, "class", "font-serif text-3xl font-bold flex-grow text-center flex-1"), M(d, "class", "flex flex-1 justify-end"), M(r, "class", "flex justify-evenly text-custom-fgcolor p-3 items-center"), M(n, "class", "max-w-screen-md mx-auto "), M(t, "class", "border-b border-custom-line")
+                t = w("header"), n = w("div"), r = w("div"), s = w("div"), Q(i.$$.fragment), o = x(), Q(a.$$.fragment), l = x(), u = w("h1"), u.textContent = "Greejerdle", c = x(), d = w("div"), Q(h.$$.fragment), f = x(), Q(m.$$.fragment), M(s, "class", "flex flex-1"), M(u, "class", "font-serif text-3xl font-bold flex-grow text-center flex-1"), M(d, "class", "flex flex-1 justify-end"), M(r, "class", "flex justify-evenly text-custom-fgcolor p-3 items-center"), M(n, "class", "max-w-screen-md mx-auto "), M(t, "class", "border-b border-custom-line")
             },
             m(e, y) {
                 g(e, t, y), p(t, n), p(n, r), p(r, s), ee(i, s, null), p(s, o), ee(a, s, null), p(r, l), p(r, u), p(r, c), p(r, d), ee(h, d, null), p(d, f), ee(m, d, null), v = !0
