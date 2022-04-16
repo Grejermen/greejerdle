@@ -5611,6 +5611,15 @@ var app = function() {
             }, {
                 url: "https://soundcloud.com/the-new-pornographers/the-bleeding-heart-show",
                 answer: "The New Pornographers - The Bleeding Heart Show"
+            }, {
+                url: "https://soundcloud.com/steely-dan-official/deacon-blues",
+                answer: "Steely Dan - Deacon Blues"
+            }, {
+                url: "https://soundcloud.com/falloutboy/headfirst-slide-into",
+                answer: "Fall Out Boy - Headfirst Slide Into Cooperstown On A Bad Bet"
+            }, {
+                url: "https://soundcloud.com/jeff-rosenstock-official/wave-goodnight-to-me",
+                answer: "Jeff Rosenstock - Wave Goodnight To Me"
             }], An).subscribe
         };
     var An;
