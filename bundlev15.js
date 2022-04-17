@@ -5503,12 +5503,12 @@ var app = function() {
             }, {
                 url: "https://soundcloud.com/elton-john/goodbye-yellow-brick-road-4",
                 answer: "Elton John - Goodbye Yellow Brick Road"
-            }, {
-                url: "https://soundcloud.com/xtc-official/making-plans-for-nigel-2001",
-                answer: "XTC - Making Plans For Nigel"
-            }, {
+            },  {
                 url: "https://soundcloud.com/the-millennium/to-claudia-on-thursday",
                 answer: "The Millennium - To Claudia on Thursday"
+            },  {
+                url: "https://soundcloud.com/xtc-official/making-plans-for-nigel-2001",
+                answer: "XTC - Making Plans For Nigel"
             }, {
                 url: "https://soundcloud.com/kanyewest/we-dont-care-album-version-1",
                 answer: "Kanye West - We Don't Care"
